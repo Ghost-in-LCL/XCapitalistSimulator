@@ -1,0 +1,2 @@
+# XCapitalitSimulator
+A simulator
